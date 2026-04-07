@@ -10,7 +10,7 @@ This project is a high-efficiency Class D Audio Amplifier designed in KiCad. It 
 * **EMI Protection:** A solid bottom ground plane was implemented to shield the audio signal from switching noise.
 * **Output Filter:** Designed with a $22\mu H$ inductor and $1\mu F$ capacitor for a clean **33.9 kHz** cutoff frequency.
 
-### How to Navigate this Repo
+###  Navigate this Repo
 * **Class D.pdf**: Schematic diagram of the circuit.
 * **Class D.kicad_pcb**: The physical board layout.
 * **Gerber Files**: Production-ready files for manufacturing.
